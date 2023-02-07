@@ -6,7 +6,8 @@ bookmark repo with some useful links to read about technologies updates, and als
 <details>
   <summary>React</summary>
   
-  hello React
+  - [JSer youtube channel](https://www.youtube.com/channel/UC0qiieVBpjA6YODgIFf6Afg/videos "JSer")
+  
   
   
 </details>
@@ -14,7 +15,9 @@ bookmark repo with some useful links to read about technologies updates, and als
 <details>
   <summary>ES/JS</summary>
   
-  hello ES
+  
+  - [How new features are added to JS](https://blog.bitsrc.io/how-new-features-are-added-to-javascript-5d8744bcc344 "JSer")
+  - [Finished proposals](https://github.com/tc39/proposals/blob/main/finished-proposals.md, 'TC39 finished proposals')
   
   
 </details>
