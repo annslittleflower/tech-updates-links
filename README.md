@@ -4,9 +4,25 @@ bookmark repo with some useful links to read about technologies updates, and als
 
 
 <details>
-  <summary>## React</summary>
+  <summary>React</summary>
   
-  hello
+  hello React
+  
+  
+</details>
+
+<details>
+  <summary>ES/JS</summary>
+  
+  hello ES
+  
+  
+</details>
+
+<details>
+  <summary>Typescript</summary>
+  
+  hello TS
   
   
 </details>
