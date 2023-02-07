@@ -25,6 +25,9 @@ bookmark repo with some useful links to read about technologies updates, and als
 <details>
   <summary>Typescript</summary>
   
+
+  - [Typescript release notes](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-9.html "Release notes")
+  
   - [JSer youtube channel](https://www.youtube.com/channel/UC0qiieVBpjA6YODgIFf6Afg/videos "JSer")
   
   
