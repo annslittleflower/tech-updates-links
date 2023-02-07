@@ -22,7 +22,8 @@ bookmark repo with some useful links to read about technologies updates, and als
 <details>
   <summary>Typescript</summary>
   
-  hello TS
+  - [JSer youtube channel](https://www.youtube.com/channel/UC0qiieVBpjA6YODgIFf6Afg/videos "JSer")
+  
   
   
 </details>
@@ -40,6 +41,3 @@ bookmark repo with some useful links to read about technologies updates, and als
 
 
 
-# TODO
-
-find out origin sourse for js and ts updates
