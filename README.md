@@ -23,6 +23,8 @@ bookmark repo with some useful links to read about technologies updates, and als
   
   
   - [How new features are added to JS](https://blog.bitsrc.io/how-new-features-are-added-to-javascript-5d8744bcc344)
+  
+  
   - [Finished proposals](https://github.com/tc39/proposals/blob/main/finished-proposals.md, 'TC39 finished proposals')
   
   
@@ -34,6 +36,7 @@ bookmark repo with some useful links to read about technologies updates, and als
 
   - [Typescript release notes](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-9.html "Release notes")
   
+  
   - [JSer youtube channel](https://www.youtube.com/channel/UC0qiieVBpjA6YODgIFf6Afg/videos "JSer")
   
   
@@ -42,6 +45,7 @@ bookmark repo with some useful links to read about technologies updates, and als
 
 <details>
   <summary>Google Chrome, PWA stuff, Chrome devtools updates</summary>
+  
   
 
   - [Google Chrome Developers Youtube channel](https://www.youtube.com/@ChromeDevs/videos "ChromeDevs")
