@@ -31,7 +31,8 @@ bookmark repo with some useful links to read about technologies updates, and als
   <summary>Google Chrome, PWA stuff, Chrome devtools updates</summary>
   
 
-  [Google Chrome Developers Youtube channel](https://www.youtube.com/@ChromeDevs/videos "ChromeDevs")
+  - [Google Chrome Developers Youtube channel](https://www.youtube.com/@ChromeDevs/videos "ChromeDevs")
+  
   
   
 </details>
