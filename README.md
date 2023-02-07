@@ -27,6 +27,17 @@ bookmark repo with some useful links to read about technologies updates, and als
   
 </details>
 
+<details>
+  <summary>Google Chrome, PWA stuff, Chrome devtools updates</summary>
+  
+
+  [Google Chrome Developers Youtube channel]([https://duckduckgo.com](https://www.youtube.com/@ChromeDevs/videos) "ChromeDevs")
+  
+  
+</details>
+
+
+
 
 # TODO
 
