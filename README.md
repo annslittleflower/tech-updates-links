@@ -8,12 +8,12 @@ bookmark repo with some useful links to read about technologies updates, and als
   
 
   - [React changelog](https://github.com/facebook/react/blob/main/CHANGELOG.md "React changelog")
-  
-  
-  - [JSer youtube channel](https://www.youtube.com/channel/UC0qiieVBpjA6YODgIFf6Afg/videos "JSer")
-  
+    
   
   - [@Codevolution youtube channel, bunch of nice tutorials](https://www.youtube.com/@Codevolution/videos "@Codevolution")
+  
+  
+  - [Maksym Rudnyi - graphql, react](https://www.youtube.com/@MaksymRudnyi/videos "MaksymRudnyi")
   
   
 </details>
@@ -38,6 +38,17 @@ bookmark repo with some useful links to read about technologies updates, and als
   
   
   - [JSer youtube channel](https://www.youtube.com/channel/UC0qiieVBpjA6YODgIFf6Afg/videos "JSer")
+  
+  
+  
+</details>
+
+<details>
+  <summary>Next.js</summary>
+  
+  
+
+  - [Next blog](https://nextjs.org/blog "Next blog")
   
   
   
