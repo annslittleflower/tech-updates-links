@@ -54,14 +54,45 @@ bookmark repo with some useful links to read about technologies updates, and als
   
 </details>
 
+
+<details>
+  <summary>GraphQL</summary>
+  
+
+  - [Specification](https://spec.graphql.org/October2021/ "GraphQL spec")
+    
+  - [Apollo](https://www.apollographql.com/ "Apollo")
+   
+  
+</details>
+
+<details>
+  <summary>Nest.js</summary>
+  
+
+  - [Nest.js docs](https://docs.nestjs.com/ "Nest docs")
+      
+</details>
+
+<details>
+  <summary>tRPC</summary>
+  
+  - [tRPC docs](https://trpc.io/ "tRPC docs")
+  
+</details>
+
+<details>
+  <summary>zod</summary>
+  
+  - [zod docs](https://zod.dev/ "zod docs")
+  
+</details>
+
+
 <details>
   <summary>Google Chrome, PWA stuff, Chrome devtools updates</summary>
   
-  
-
   - [Google Chrome Developers Youtube channel](https://www.youtube.com/@ChromeDevs/videos "ChromeDevs")
-  
-  
   
 </details>
 
