@@ -40,6 +40,9 @@ bookmark repo with some useful links to read about technologies updates, and als
   - [JSer youtube channel](https://www.youtube.com/channel/UC0qiieVBpjA6YODgIFf6Afg/videos "JSer")
   
   
+  - [Typescript performance](https://github.com/microsoft/TypeScript/wiki/Performance "TS Performance")
+  
+  
   
 </details>
 
